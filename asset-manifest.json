@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactQuizzesTask/static/css/main.ea7a0a49.css",
-    "main.js": "/ReactQuizzesTask/static/js/main.7dfd959a.js",
+    "main.js": "/ReactQuizzesTask/static/js/main.8200311e.js",
     "static/js/787.14184507.chunk.js": "/ReactQuizzesTask/static/js/787.14184507.chunk.js",
     "static/media/brand-icons.svg": "/ReactQuizzesTask/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/ReactQuizzesTask/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -21,11 +21,11 @@
     "static/media/outline-icons.woff2": "/ReactQuizzesTask/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/ReactQuizzesTask/index.html",
     "main.ea7a0a49.css.map": "/ReactQuizzesTask/static/css/main.ea7a0a49.css.map",
-    "main.7dfd959a.js.map": "/ReactQuizzesTask/static/js/main.7dfd959a.js.map",
+    "main.8200311e.js.map": "/ReactQuizzesTask/static/js/main.8200311e.js.map",
     "787.14184507.chunk.js.map": "/ReactQuizzesTask/static/js/787.14184507.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea7a0a49.css",
-    "static/js/main.7dfd959a.js"
+    "static/js/main.8200311e.js"
   ]
 }
